@@ -1,0 +1,17 @@
+body{
+    background: url(forest.jpg) no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.accordian{
+    background-color: white;
+    width: 65%;
+    padding: 30px;
+    border-radius: 30px;
+}
+.accordian-title{
+    margin-bottom: 30px;
+    text-align: center;
+}
